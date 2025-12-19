@@ -149,4 +149,4 @@ New Submission on Contact us Section of Samrat Tech IT Solutions
 
 
 if __name__ =='__main__':
-    app.run(debug=True,port=5000)
+    app.run(debug=False,port=5000)
